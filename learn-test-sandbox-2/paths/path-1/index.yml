@@ -16,5 +16,6 @@ metadata:
   description: summary of Path A
 modules:
 - learn-test-sandbox.fallback-badge
+- learn-test-sandbox-2.module-1
 trophy:
   uid: learn-test-sandbox-2.path-1.trophy 
