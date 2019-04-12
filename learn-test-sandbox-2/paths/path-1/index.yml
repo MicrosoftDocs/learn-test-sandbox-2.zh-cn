@@ -1,0 +1,21 @@
+### YamlMime:LearningPath
+uid: learn-test-sandbox-2.path-1
+title: Title of Path 1
+summary: summary of Path 1
+cardDescription: Create, customize and share an app 
+iconUrl: http://via.placeholder.com/120x120
+levels:
+- beginner
+roles:
+- business-user
+products:
+- bizapps-power-apps
+prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
+metadata:
+  title: Title of Path A
+  description: summary of Path A
+modules:
+- learn-test-sandbox.fallback-badge
+- learn-test-sandbox-2.module-1
+trophy:
+  uid: learn-test-sandbox-2.path-1.trophy 
