@@ -15,7 +15,6 @@ metadata:
   title: Title of Path A
   description: summary of Path A
 modules:
-- learn-test-sandbox.fallback-badge
-- learn-test-sandbox-2.module-1
+- learn-test-sandbox-2.non-exist-module
 trophy:
   uid: learn-test-sandbox-2.path-1.trophy 
