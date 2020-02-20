@@ -9,7 +9,7 @@ levels:
 roles:
 - business-user
 products:
-- bizapps-power-apps
+- azure-encoding
 prerequisites: This learning path assumes that you're familiar with OneDrive, SharePoint, and Excel. 
 metadata:
   title: Title of Path A
