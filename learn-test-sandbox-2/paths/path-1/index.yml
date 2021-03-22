@@ -15,6 +15,6 @@ metadata:
   title: Title of Path A
   description: summary of Path A
 modules:
-- learn-test-sandbox-2.non-exist-module
+- learn-test-sandbox-2.exist-module
 trophy:
   uid: learn-test-sandbox-2.path-1.trophy 
