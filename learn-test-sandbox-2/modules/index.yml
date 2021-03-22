@@ -23,5 +23,7 @@ roles:
 - business-user 
 products:  
 - m365
+units: 
+- learn-test-sandbox-2.unit
 badge: 
-  uid: learn-test-sandbox.fallback.badge
+  uid: learn-test-sandbox-2.fallback.badge
